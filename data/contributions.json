@@ -1,9 +1,9 @@
 {
   "username": "Karmansingh09",
-  "updated_at": "2026-10-10T04:07:51.552940Z",
+  "updated_at": "2026-10-11T03:44:30.572680Z",
   "stats": {
     "total_contributions": 306,
-    "current_streak": 7,
+    "current_streak": 0,
     "longest_streak": 7,
     "best_day": {
       "date": "2026-08-22",
@@ -26,41 +26,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-11",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-12",
       "count": 0,
@@ -1878,6 +1843,11 @@
     },
     {
       "date": "2026-10-10",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-11",
       "count": 0,
       "level": 0
     }
