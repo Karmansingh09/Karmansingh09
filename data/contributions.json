@@ -1,6 +1,6 @@
 {
   "username": "Karmansingh09",
-  "updated_at": "2026-11-14T04:46:31.917346Z",
+  "updated_at": "2026-11-15T04:38:15.023282Z",
   "stats": {
     "total_contributions": 353,
     "current_streak": 0,
@@ -26,41 +26,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-16",
       "count": 0,
@@ -1878,6 +1843,11 @@
     },
     {
       "date": "2026-11-14",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-15",
       "count": 0,
       "level": 0
     }
